@@ -39,14 +39,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Age Calculator Code](https://github.com/ShashikantBharti/age-calculator-app-main-frontend-mentor-challenge)
-- Live Site URL: [Age Calculator](https://shashikantbharti.github.io/age-calculator-app-main-frontend-mentor-challenge/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-
-- First of all, built html skeleton.
-- Then added css to give a beautiful shape.
-- At last functionality is added using js.
 
 ### Built with
 
@@ -57,22 +53,29 @@ Users should be able to:
 
 ### What I learned
 
-- Access the HTML elements in JavaScript
-- Get Value from input tag
-- Set inner text
-- blur event and click event
-- Calculating the age
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-```js
-function validYear(y, m, d) {
-  const secondDate = new Date();
-  const firstDate = new Date(`${y}-${m}-${d}`);
-  if (firstDate.setHours(0, 0, 0, 0) <= secondDate.setHours(0, 0, 0, 0)) {
-    return true;
-  }
-  return false;
+To see how you can add code snippets, see below:
+
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+
+```css
+.proud-of-this-css {
+  color: papayawhip;
 }
 ```
+
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉');
+};
+```
+
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+
+**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
@@ -84,9 +87,13 @@ In future projects I would like to precise and optimize code so that minimum pos
 
 ## Author
 
-- Website - [Shashikant Bharti](https://shashikantbharti.github.io/age-calculator-app-main-frontend-mentor-challenge/)
-- Frontend Mentor - [@ShashikantBharti](https://www.frontendmentor.io/profile/ShashikantBharti)
+- Website - [Shashikant Bharti](https://www.your-site.com)
+- Frontend Mentor - [@Shashikant](https://www.frontendmentor.io/profile/yourusername)
+
+**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-I am grateful for the opportunities you have given me to learn from your experience and expertise, and for the trust you have placed in me to take on new responsibilities and challenges. Your mentorship has been an inspiration to me, and I will always remember the valuable lessons and insights you have shared with me.
+This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+
+**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
