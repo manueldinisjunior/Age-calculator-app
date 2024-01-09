@@ -9,10 +9,9 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
+  - [Tech Stack](#tech-stack)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  - [Continued Development](#CI/CD)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -39,19 +38,22 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Age Calculator Code](https://github.com/ShashikantBharti/age-calculator-app-main-frontend-mentor-challenge)
-- Live Site URL: [Age Calculator](https://shashikantbharti.github.io/age-calculator-app-main-frontend-mentor-challenge/)
+- Solution URL: [Age Calculator Code](https://github.com/manueldinisjunior/age-calculator-app)
+- Live Site URL: [Age Calculator](https://manueldinisjunior.github.io/age-calculator-app/)
 
 ## My process
 
-- First of all, built html skeleton.
-- Then added css to give a beautiful shape.
-- At last functionality is added using js.
+- Wrote HTML Code.
+- Customized UI with CSS.
+- Add JavaScript Functions for page interaction.
+- Node Modules
+- Git Hub for version control
 
-### Built with
+### Tech Stack
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Node Modules
 - Flexbox
 - Mobile-first workflow
 
@@ -74,19 +76,12 @@ function validYear(y, m, d) {
 }
 ```
 
-### Continued development
+### CI/CD
 
 In future projects I would like to precise and optimize code so that minimum possible code should be there in project.
 
-### Useful resources
-
-- [Example resource 1](https://dev.to) - For getting year in past
-
 ## Author
 
-- Website - [Shashikant Bharti](https://shashikantbharti.github.io/age-calculator-app-main-frontend-mentor-challenge/)
-- Frontend Mentor - [@ShashikantBharti](https://www.frontendmentor.io/profile/ShashikantBharti)
-
-## Acknowledgments
-
-I am grateful for the opportunities you have given me to learn from your experience and expertise, and for the trust you have placed in me to take on new responsibilities and challenges. Your mentorship has been an inspiration to me, and I will always remember the valuable lessons and insights you have shared with me.
+* Website - [Manuel Dinis Júnior](https://manueldinisjunior.com/)
+* LinkedIn - [@manueldinisjunior](https://www.linkedin.com/in//manueldinisjunior)
+* Frontend Mentor - [@manueldinisjunior](https://www.frontendmentor.io/profile/manueldinisjunior)
